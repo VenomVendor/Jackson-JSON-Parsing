@@ -1,0 +1,27 @@
+{
+  "first_name": "first_name",
+  "last_name": "last",
+  "city": "Somewhere",
+  "user_user": [
+    {
+      "id": "1",
+      "domain": "http://google.com/"
+    },
+    {
+      "id": "34",
+      "domain": "http://so.com/",
+      "fav_colors": [
+        "red",
+        "yellow"
+      ]
+    },
+    {
+      "id": "42",
+      "domain": "http://ww.com/",
+      "fav_colors": [
+        "black",
+        "green"
+      ]
+    }
+  ]
+}
