@@ -1,8 +1,8 @@
 #Demo for [Jackson JSON Parser](https://github.com/FasterXML/jackson)
 ##prerequisites
- - [jackson-core-2.x.x.jar](http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.2.3/jackson-core-2.2.3.jar)
- - [jackson-annotations-2.x.x.jar](http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.2.3/jackson-annotations-2.2.3.jar)
- - [jackson-databind-2.x.x.jar](http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.2.3/jackson-databind-2.2.3.jar)
+ - [jackson-core-2.x.x.jar](http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.1/jackson-core-2.3.1.jar)
+ - [jackson-annotations-2.x.x.jar](http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.1/jackson-annotations-2.3.1.jar)
+ - [jackson-databind-2.x.x.jar](http://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.1/jackson-databind-2.3.1.jar)
 
 Save this <kbd>[JSON](https://github.com/VenomVendor/Jackson-JSON-Parsing/blob/master/assets/soDemo.json)</kbd> in your server.
 ##### JSON
