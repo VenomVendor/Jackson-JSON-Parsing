@@ -26,7 +26,7 @@ public class User_user {
 	}
 
 	public List<String> getFav_colors() {
-		return fav_colors;
+		return this.fav_colors;
 	}
 
 	public void setFav_colors(List<String> fav_colors) {
